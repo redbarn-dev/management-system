@@ -4,3 +4,4 @@ odoo-addon-mgmtsystem @ git+https://github.com/OCA/management-system@refs/pull/8
 odoo-addon-mgmtsystem_action @ git+https://github.com/OCA/management-system@refs/pull/876/head#subdirectory=mgmtsystem_action
 odoo-addon-document_page_procedure @ git+https://github.com/OCA/management-system@refs/pull/878/head#subdirectory=document_page_procedure
 odoo-addon-mgmtsystem_nonconformity @ git+https://github.com/OCA/management-system@refs/pull/879/head#subdirectory=mgmtsystem_nonconformity
+odoo-addon-mgmtsystem_manual @ git+https://github.com/OCA/management-system@refs/pull/877/head#subdirectory=mgmtsystem_manual
