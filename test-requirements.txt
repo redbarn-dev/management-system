@@ -11,3 +11,4 @@ odoo-addon-mgmtsystem_nonconformity @ git+https://github.com/OCA/management-syst
 odoo-addon-mgmtsystem_audit @ git+https://github.com/OCA/management-system@refs/pull/880/head#subdirectory=mgmtsystem_audit
 odoo-addon-document_page_quality_manual @ git+https://github.com/OCA/management-system@refs/pull/881/head#subdirectory=document_page_quality_manual
 odoo-addon-mgmtsystem_review @ git+https://github.com/OCA/management-system@refs/pull/882/head#subdirectory=mgmtsystem_review
+odoo-addon-mgmtsystem @ git+https://github.com/OCA/management-system@refs/pull/875/head#subdirectory=mgmtsystem
